@@ -43,3 +43,9 @@ api/config.js       chave e modelo do Gemini (só admin)
 api/historico.js    histórico de análises; api/cruzamentos.js, de cruzamentos
 api/_gemini.js      chamada ao Gemini com troca de modelo; api/_lib.js, banco e auth
 ```
+
+## Direitos autorais
+
+© 2026 Gustavo Fiedler Calegari. Todos os direitos reservados.
+
+Este código está publicado apenas para avaliação de portfólio. Não é permitido copiar, modificar, distribuir ou usar comercialmente, no todo ou em parte, sem autorização por escrito do autor.
